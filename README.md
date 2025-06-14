@@ -1,5 +1,11 @@
 # Pizza Sales Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 
 This data analysis project explores the sales performance of a pizza company using SQL and Excel. By analyzing historical order data across categories, we aim to identify trends in size, time, and product performance to gain a deeper understanding of how the business is doing.
