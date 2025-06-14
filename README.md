@@ -4,6 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
+- [Data Analysis](#data-analysis)
 - [Recommendations](#recommendations)
 
 ### Project Overview
@@ -78,7 +79,7 @@ The analysis results are summarized as follows:
 
 ### Recommendations
 
-Based on the anlysis, we recommend the following actions:
+Based on the analysis, we recommend the following actions:
 - Invest in promotions during weekends and evening hours to take advantage of peak sales periods.
 - Prioritize large-sized pizzas in marketing and bundling strategies, as they drive the highest revenue.
 - Continue promoting top-performing products like the Classic Deluxe and Supreme pizzas to maintain strong sales.
